@@ -49,9 +49,7 @@ I am Bhavesh Verma, a recent **B.Tech graduate** in **Computer Science and Engin
 
 ### 🤔 LeetCode – For Those Who Care
 
-Some people value problem-solving platforms like LeetCode, while others focus more on real-world projects. If you're among those who appreciate coding challenges, feel free to check out my LeetCode profile:
-
-**LeetCode**: [Visit My Profile](https://leetcode.com/bhaveshverma2077/)
+Some people value problem-solving platforms like LeetCode, while others focus more on real-world projects. If you're among those who appreciate coding challenges, feel free to check out my LeetCode profile: [Visit My Profile](https://leetcode.com/bhaveshverma2077/)
 
 ### 📫 Let's Connect
 
